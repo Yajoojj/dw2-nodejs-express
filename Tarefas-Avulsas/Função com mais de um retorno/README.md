@@ -1,4 +1,4 @@
-# 📋 Verificador de Idade
+# 📋 Função com mais de um retorno
 
 Este projeto contém uma função JavaScript que determina se uma pessoa é maior ou menor de idade com base na idade informada.
 
