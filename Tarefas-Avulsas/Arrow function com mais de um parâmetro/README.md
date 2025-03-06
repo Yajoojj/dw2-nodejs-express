@@ -1,4 +1,4 @@
-# ➕ Calculadora de Soma de 4 Números
+# ➕ Arrow function com mais de um parâmetro
 
 Este projeto contém uma função JavaScript simples para calcular a soma de quatro números.
 
