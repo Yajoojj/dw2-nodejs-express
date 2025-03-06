@@ -1,4 +1,4 @@
-# ➗ Calculadora de Divisão
+# ➗ Função com parâmetros
 
 Este projeto contém uma função JavaScript que realiza a divisão entre dois números e exibe o resultado no console.
 
