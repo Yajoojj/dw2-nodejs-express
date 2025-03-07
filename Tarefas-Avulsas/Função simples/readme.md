@@ -30,7 +30,7 @@ Nome: Yago Kurashiki Idade: 18 anos Cidade: Cananéia
 
 ## 🛠 Tecnologias Utilizadas
 
-- JavaScript (Vanilla)
+- JavaScript 
 - Console para saída de dados (Browser ou Node.js)
 - WebStorm
 
